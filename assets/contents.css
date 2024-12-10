@@ -1,0 +1,20 @@
+.ry-body {
+    position : relative;
+    width : 400px;
+    height : 600px;
+    background-color : bisque;
+}
+
+.ry-body .ry-in-box {
+    background-color : blue;
+    height : 300px;
+}
+
+.ry-body .ry-out-box {
+    position : absolute;
+    background-color : yellow;
+    padding : 60px 65px;
+    top : 230px;
+    left : 130px;
+    border-radius : 50%;
+}
